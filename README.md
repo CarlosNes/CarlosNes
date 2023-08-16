@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CarlosNes
-- 👀 I’m interested in ...Ciberseguridad
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @CarlosCano
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me carlosnes16@gmail.com
 
 <!---
 CarlosNes/CarlosNes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
